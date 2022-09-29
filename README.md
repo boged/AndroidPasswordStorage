@@ -1,5 +1,7 @@
 # AndroidPasswordStorage
+Main sources directory in repository - *"AndroidPasswordStorage/app/src/main/java/com/example/mystorage"*
 
+## About it
 This program implement password storage in memory using RoomDatabase in format:
 - Name of resource
 - Login
@@ -29,6 +31,3 @@ Also in this menu you can export/import database in CSV format or clear it.
  <p align="center" width="25%" height="25%">
   <img src="https://user-images.githubusercontent.com/55932416/193136228-fa48f303-5dd9-4f20-ad4b-20f14771bde8.png" />
 </p>
-  
-  
-Main sources directory in repository - *"AndroidPasswordStorage/app/src/main/java/com/example/mystorage"*
