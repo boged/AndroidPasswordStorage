@@ -1,5 +1,5 @@
 # AndroidPasswordStorage
-Main sources directory in repository - *"AndroidPasswordStorage/app/src/main/java/com/example/mystorage"*
+Main sources directory in repository - ["AndroidPasswordStorage/app/src/main/java/com/example/mystorage"](https://github.com/boged/AndroidPasswordStorage/tree/master/app/src/main/java/com/example/mystorage)
 
 ## About it
 This program implement password storage in memory using RoomDatabase in format:
